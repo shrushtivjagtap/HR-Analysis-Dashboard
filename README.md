@@ -1,0 +1,6 @@
+# HR-Analysis-Dashboard
+
+Market fluctuations andrapidly changing technology have affected the global market. Many published reports showed that around half of the employees wanted to change jobs. While some market researchers said that flexible working and job security were their primary factors, few admitted that a higher salary was their aim.Different regions saw an increase and a decrease in salariesover the years. While the increase was to retain top-level professional employees, the pay cuts were due to market fluctuations and were resorted after the market conditions improved. HR people across the globe are hiring new employees, trying to retain andunderstand the needs of employees who got separated (those who left the company).So,how does the HR department make these decisions in volatile market conditions? They rely on HR analytics to understand the existing situation and develop a new modern approach. For this requirement, you have been asked in your company to build a dashboard in Power BI considering the following challenges of HR people and provide an effective way to find the answers to their day-to-day questions.
+
+https://user-images.githubusercontent.com/58544603/221866849-46eef042-d227-49a2-a871-677b45b15f56.mp4
+
